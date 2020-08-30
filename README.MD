@@ -139,6 +139,8 @@ Edit this layout in [http://www.keyboard-layout-editor.com](http://www.keyboard-
 
 ![](https://i.imgur.com/pGJUTZR.jpg)
 
+more photos at [https://imgur.com/gallery/rXZYqem](https://imgur.com/gallery/rXZYqem)
+
 ## Wiring
 ![](images/wiring.png)
 communication protocol is serial using D3 pin, the LED Din pin use B5 pin, the right halve encoder connected to the i2c pin D1 and D0 so I have to disable the oled driver on the right halve to use encoder, and I can't use the Oled display if the right side is the master, always use left as master.
