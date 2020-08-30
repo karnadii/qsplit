@@ -1,5 +1,5 @@
 # QSPLIT
-I want a split keyboard like quefrency but with oled display and rotary encoder just like satisfaction75. Since I want to reduce the cost to build this keyboard, I use full acrylic with the case and plate.
+I want a split keyboard like quefrency but with oled display and rotary encoder just like satisfaction75. The case and the plate is full acrylic.
 
 ## Hardware
 | Component                                                      | qty | price       | link                                                                                                                          | total Price |
@@ -24,8 +24,9 @@ I want a split keyboard like quefrency but with oled display and rotary encoder 
 | 40meter 0.5mm copper wire                                      | 1   | Rp. 32.500  | https://shopee.co.id/product/5773957/167997845                                                                                | Rp. 32.500  |
 | Rotary encoder with switch EC11                                | 1   | Rp. 4.617   | https://shopee.co.id/GHID-2PCS-Rotary-encoder-with-switch-EC11-Audio-digital-potentiometer-handle-20mm-i.170081862.2774808434 | Rp. 4.617   |
 | 5pcs trrs female pcb                                           | 1   | Rp. 19.339  | https://shopee.co.id/5pcs-Papan-Modul-Ekstensi-Jack-3.5mm-Untuk-Headset-Stereo-i.162080891.4234853478                         | Rp. 19.339  |
-|Total Price                                                                                                                      | | |         |Rp. 1.474.433|
+|Total Price                                                                                                                      | | |         |Rp. 1.474.433 ($100)|
 
+This is my first time building custom handwired keyboard, even though someone else guide me to build this keeb. some mistakes were made, buying wrong part, buying unnecesery part to reach the minimum free shipping terms. buying to many part because the seller only sell in pack and so on. the cost not include the shipping cost, some part get free shipping some part don't. the cost not including the tool to build this keeb, like solder, soldering iron, caliper, multimeter and etc.
 
 ## Features
 ### Rotary encoder
@@ -130,7 +131,7 @@ The base layer is just switching between qwerty mac and qwerty windows by pressi
 
 ## Layout
 ![qsplit-65-with-macro-combined](images/qsplit-65-with-macro-combined.jpg)
-
+Edit this layout in [http://www.keyboard-layout-editor.com](http://www.keyboard-layout-editor.com/##@_name=Qsplit%2065%20with%20macro%20combined&author=karnadii;&@_y:1&x:2.25&a:6;&=Esc&_a:4;&=!%0A1&=/@%0A2&=#%0A3&=$%0A4&=%25%0A5&=%5E%0A6&_x:1;&=/&%0A7&=*%0A8&=(%0A9&=)%0A0&=/_%0A-&=+%0A/=&_a:6&w:2;&=Backspace&=ENC;&@_x:0.25;&=F1&=F2&_a:4&w:1.5;&=Tab&=Q&=W&=E&=R&=T&_x:1;&=Y&=U&=I&=O&=P&=%7B%0A%5B&=%7D%0A%5D&_w:1.5;&=%7C%0A%5C&_a:6;&=Del;&@_x:0.25;&=F3&=F4&_a:4&w:1.75;&=Caps%20Lock&=A&=S&=D&=F&=G&_x:1;&=H&=J&=K&=L&=/:%0A/;&=%22%0A'&_a:6&w:2.25;&=Enter&=Page%20Up;&@_x:0.25;&=F5&=F6&_w:2.25;&=Shift&_a:4;&=Z&=X&=C&=V&=B&_x:1;&=N&=M&=%3C%0A,&=%3E%0A.&=?%0A//&_a:6&w:1.75;&=Shift&_a:7;&=%E2%86%91&_a:6;&=Page%20Down;&@_x:0.25;&=F7&=F8&_w:1.25;&=Fn&_w:1.25;&=Ctrl&_w:1.25;&=Win&_w:1.25;&=Alt&_a:7&w:2.25;&=&_x:1&w:2.75;&=&_a:6;&=Alt&=Fn&=Ctrl&_a:7;&=%E2%86%90&=%E2%86%93&=%E2%86%92)
 ## Finished Build
 ![Splitted](https://cdn.discordapp.com/attachments/675924130163458051/748955979030200388/IMG_20200822_182235.jpg)
 
@@ -169,3 +170,9 @@ I trust my ability so no need to test it on breadboard.
 
 
 
+## The end
+I am learning so much by building this keyboard, at first it confusing, but once you understand how it work, you can build it faster.
+I am not satisfied yet with this keyboard, I will upgrade the mcu and other part. just wait for rev2.
+
+## Credits
+Thanks for member of [Indonesian Mechanical Keyboard Group](https://discord.gg/t9yvV8y). Thank you so much for @herpiko for the inspiration and the thorough guide, @dayatz for the double layer acrylic plate desain so I can reduce the cost. thanks for @sendz for open sourcing his acrylic case design so I can learn to make my own version.
