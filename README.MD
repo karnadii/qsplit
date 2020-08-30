@@ -171,8 +171,8 @@ I trust my ability so no need to test it on breadboard.
 
 
 ## The end
-I am learning so much by building this keyboard, at first it confusing, but once you understand how it work, you can build it faster.
-I am not satisfied yet with this keyboard, I will upgrade the mcu and other part. just wait for rev2.
+I am learning so much by building this keyboard, at first it confusing, but once you understand how it works, you can build it faster.
+I am not satisfied yet with this keyboard, I will upgrade the mcu and other part. just wait for rev2. forgive my typo and bad grammar,I try my best.
 
 ## Credits
-Thanks for member of [Indonesian Mechanical Keyboard Group](https://discord.gg/t9yvV8y). Thank you so much [@herpiko](https://github.com/herpiko) for the inspiration and the thorough guide, [@dayatz](https://github.com//dayatz) for the double layer acrylic plate desain so I can reduce the cost. thanks [@sendz](https://github.com/sendz) for open sourcing his acrylic case design so I can learn to make my own version.
+Thanks for member of [Indonesian Mechanical Keyboard Group](https://discord.gg/t9yvV8y). Thank you so much [@herpiko](https://github.com/herpiko) for the inspiration and the thorough guide, [@dayatz](https://github.com/dayatz) for the double layer acrylic plate desain so I can reduce the cost. thanks [@sendz](https://github.com/sendz) for open sourcing his acrylic case design so I can learn to make my own version. Thanks for the qmk discord member for helping with some issue.
