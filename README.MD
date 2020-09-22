@@ -1,5 +1,12 @@
 # QSPLIT
-I want a split keyboard like quefrency but with oled display and rotary encoder just like satisfaction75. The case and the plate is full acrylic.
+
+## Rev1
+I want a split keyboard like quefrency but with encoder and oled just like satisfaction75
+![Splitted](https://cdn.discordapp.com/attachments/675924130163458051/748955979030200388/IMG_20200822_182235.jpg)
+
+## Rev2
+Left using teensy++ 2.0 right using pro micro. I want a lot of feature but the pro micro firmware max size is limitting me from adding aditional feature. So I think of mixing different board. And it works. I almost never using the macro key on the left side and I want a dedicated encoder instead of changing layer encoder. And changing layout to make it easier for me to search for keycaps set. build log and the firmware coming soon.
+![](https://i.imgur.com/tk0jVm7.jpg)
 
 ## Hardware
 | Component                                                      | qty | price       | link                                                                                                                          | total Price |
